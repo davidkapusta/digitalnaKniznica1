@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DigitalnaKniznica/1.0.0": {
+        "runtime": {
+          "DigitalnaKniznica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DigitalnaKniznica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/david/RiderProjects/DigitalnaKniznica/DigitalnaKniznica/bin/Debug/net10.0/DigitalnaKniznica
+/Users/david/RiderProjects/DigitalnaKniznica/DigitalnaKniznica/bin/Debug/net10.0/DigitalnaKniznica.deps.json
+/Users/david/RiderProjects/DigitalnaKniznica/DigitalnaKniznica/bin/Debug/net10.0/DigitalnaKniznica.runtimeconfig.json
+/Users/david/RiderProjects/DigitalnaKniznica/DigitalnaKniznica/bin/Debug/net10.0/DigitalnaKniznica.dll
+/Users/david/RiderProjects/DigitalnaKniznica/DigitalnaKniznica/bin/Debug/net10.0/DigitalnaKniznica.pdb
+/Users/david/RiderProjects/DigitalnaKniznica/DigitalnaKniznica/obj/Debug/net10.0/DigitalnaKniznica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/RiderProjects/DigitalnaKniznica/DigitalnaKniznica/obj/Debug/net10.0/DigitalnaKniznica.AssemblyInfoInputs.cache
+/Users/david/RiderProjects/DigitalnaKniznica/DigitalnaKniznica/obj/Debug/net10.0/DigitalnaKniznica.AssemblyInfo.cs
+/Users/david/RiderProjects/DigitalnaKniznica/DigitalnaKniznica/obj/Debug/net10.0/DigitalnaKniznica.csproj.CoreCompileInputs.cache
+/Users/david/RiderProjects/DigitalnaKniznica/DigitalnaKniznica/obj/Debug/net10.0/DigitalnaKniznica.dll
+/Users/david/RiderProjects/DigitalnaKniznica/DigitalnaKniznica/obj/Debug/net10.0/refint/DigitalnaKniznica.dll
+/Users/david/RiderProjects/DigitalnaKniznica/DigitalnaKniznica/obj/Debug/net10.0/DigitalnaKniznica.pdb
+/Users/david/RiderProjects/DigitalnaKniznica/DigitalnaKniznica/obj/Debug/net10.0/DigitalnaKniznica.genruntimeconfig.cache
+/Users/david/RiderProjects/DigitalnaKniznica/DigitalnaKniznica/obj/Debug/net10.0/ref/DigitalnaKniznica.dll
